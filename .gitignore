@@ -1,0 +1,43 @@
+# Unity standard ignores
+/Library/
+/Temp/
+/Obj/
+/Build/
+/Builds/
+/Assets/AssetStoreTools*
+
+# Visual Studio / VS Code
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Unity-generated
+*.mdb
+*.mono
+*.mdb
+*.pidb
+*.qa
+
+# OS-generated
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+
+# User-specific
+/Projects/[A-Z]*/**
+/Projects/[A-Z]*/
